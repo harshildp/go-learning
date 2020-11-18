@@ -23,4 +23,6 @@ func main() {
 	}
 
 	fmt.Println(p1)
+	fmt.Println(p1.episodes[1])
+	fmt.Println(p1.design["lightsaberColor"])
 }
